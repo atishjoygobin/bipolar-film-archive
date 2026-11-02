@@ -1,12 +1,12 @@
 # Bipolar Film Archive
 
-This repository holds the research data behind the Bipolar Film Archive.
-
-The CSV contains 457 works currently included in the archive, with evidence notes and source links. It includes works without TMDb IDs, so coverage is not limited to TMDb records.
+This is a working archive of films and screen works connected to bipolar disorder. The archive includes feature films, documentaries, shorts and series when the work or its documented context connects a character or participant to bipolar disorder or lived experience. The CSV contains 457 works currently included in the archive, with evidence notes and source links.
 
 ## Data file
 
 - `bipolar_film_archive.csv` - archive records with release details, standardized format, relevance, diagnosis subject, evidence notes, source links, and available external IDs.
+
+Format values are standardized to Feature film, Documentary, Documentary short, Short film, Television series, Documentary series, and Other screen work. Letterboxd links include direct links, verified overrides, or ID-based links where existing Letterboxd match data supports them.
 
 ## Relevance labels
 
