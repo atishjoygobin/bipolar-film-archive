@@ -6,7 +6,9 @@ The CSV contains 457 works currently included in the archive, with evidence note
 
 ## Data file
 
-- `bipolar_film_archive.csv` - archive records, including work details, relevance, diagnosis terminology, subject, evidence, and source references.
+- `bipolar_film_archive.csv` - archive records with release details, standardized format, relevance, diagnosis subject, evidence notes, source links, and available external IDs.
+
+Format values are standardized to Feature film, Documentary, Documentary short, Short film, Television series, Documentary series, and Other screen work. Letterboxd links include direct links, verified overrides, or ID-based links where existing Letterboxd match data supports them.
 
 ## Relevance labels
 
