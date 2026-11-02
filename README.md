@@ -6,8 +6,6 @@ This is a working archive of films and screen works connected to bipolar disorde
 
 - `bipolar_film_archive.csv` - archive records with release details, standardized format, relevance, diagnosis subject, evidence notes, source links, and available external IDs.
 
-Format values are standardized to Feature film, Documentary, Documentary short, Short film, Television series, Documentary series, and Other screen work. Letterboxd links include direct links, verified overrides, or ID-based links where existing Letterboxd match data supports them.
-
 ## Relevance labels
 
 - **Central** - Bipolar disorder or lived experience is a main subject or major focus of the work.
