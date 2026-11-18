@@ -1,6 +1,6 @@
 # Bipolar Film Archive
 
-This is a working archive of films and screen works connected to bipolar disorder. The archive includes feature films, documentaries, shorts and series when the work or its documented context connects a character or participant to bipolar disorder or lived experience. The CSV contains 457 works currently included in the archive, with evidence notes and source links.
+This is a working archive of films and screen works connected to bipolar disorder. The archive includes feature films, documentaries, shorts and series when the work or its documented context connects a character or participant to bipolar disorder or lived experience. The CSV contains 467 works currently included in the archive, with evidence notes and source links.
 
 ## Relevance labels
 
